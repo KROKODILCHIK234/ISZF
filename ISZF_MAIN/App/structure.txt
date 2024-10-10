@@ -1,0 +1,13 @@
+ISZF
+├── App
+│   ├── __init__.py
+│   ├── main.py
+│   ├── api
+│   │   ├── __init__.py
+│   │   ├── router.py
+│   │   └── endpoints
+│   │       ├── __init__.py
+│   │       └── items.py
+│   ├── models.py
+│   └── database.py  
+└── requirements.txt
